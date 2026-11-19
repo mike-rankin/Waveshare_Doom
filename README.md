@@ -15,7 +15,8 @@ Claude created 100% of the code for this.
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size
 
 # What do I need to do? <BR>
-
+-format your microSD card, copy doom1.wad onto it and insert it into your Waveshare board
+-flash the portrait or ladscape version on the bin file using an online flasher. Because it is a merged, partitioned file, set the offset location to 0x00 instead of the default 0x1000
 <img width="1098" height="1030" alt="IDE_Settings" src="https://github.com/user-attachments/assets/9aa57acc-1377-4b38-8b0a-9b453f5d0a25" />
 <img width="1371" height="442" alt="ESP_Flasher" src="https://github.com/user-attachments/assets/d17ee541-dac5-4064-9dd4-e6978d6021b3" />
 
