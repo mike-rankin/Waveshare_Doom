@@ -1,6 +1,6 @@
 # Waveshare_Doom
 
-Claude created 100% of the code for this. Did I learn anything about coding? No, and I'm ok with this for this particular project. After listening to the audiobook Doom Guy: Life in First Person narritaed by John Romero it brought back so many great memories. Previous side scrollers before this was all we had but Doom changed everything. After the book I grabbed Doom off Steam and played it once more. Lately I've been having a great time using Claude bringing new ideas to life that was never before possible. This project idea for Doom on a tiny device needs a lot of hardware and this Waveshare board can do it all: <BR>
+Claude created 100% of the code for this. Did I learn anything about coding? No, and I'm ok with this for this particular project. After listening to the audiobook Doom Guy: Life in First Person narrated by John Romero it brought back so many great memories. Previous side scrollers before this was all we had but Doom changed everything. After the book I grabbed Doom off Steam and played it once more. Lately I've been having a great time using Claude bringing new ideas to life that were never possible. This project idea for Doom on a tiny device needs a lot of hardware and this Waveshare board can do it all: <BR>
  <BR>
 -16Megs of flash <BR>
 -8Megs of PSRAM <BR>
@@ -20,6 +20,7 @@ Claude created 100% of the code for this. Did I learn anything about coding? No,
 -the library from Library Manager ESP-DOOM <BR>
 -compile it yourself or use the web flasher and my compiled .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size that you can find with a quick search <BR>
+-two versions were created but the landscape version is my favourite and has the ability to save games on the sd card
 
 # What do I need to do? <BR>
 -format your microSD card, copy doom1.wad onto it and insert it into your Waveshare board <BR>
