@@ -3,8 +3,8 @@ Doom on the Waveshare ESP32-S3 1.8 inch amoled board
 
 Claude created 100% of the code for this.
 
-What hardware do I need?
-- the original Waveshare 1.8 inch amoled board. I hear there are two versions of the hardware. If on the back of yours you see this for the
+What hardware do I need? <BR>
+-the original Waveshare 1.8 inch amoled board. I hear there are two versions of the hardware. If on the back of yours you see this for the display and touch controller hardware inside then you are good.
 - <img width="508" height="640" alt="Back" src="https://github.com/user-attachments/assets/c71c2a8d-74a2-4fe6-8e0e-394444113755" />
 
 
