@@ -16,6 +16,7 @@ Claude created 100% of the code for this. Did I learn anything about coding? No,
 
 # What software do I need? <BR>
 -the Arduino IDE, I'm using version 2.3.11 <BR>
+-the Boards Manager, esp32 by Espressif, I'm using version 3.3.13 <BR>
 -the library from Library Manager ESP-DOOM <BR>
 -compile it yourself or use the web flasher and my compiled .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size <BR>
