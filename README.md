@@ -9,9 +9,10 @@ Claude created 100% of the code for this. Did I learn anything about coding? No,
 -built in battery and speaker <BR> 
 
 # What hardware do I need? <BR>
+-a microSD card over 4Megs in size <BR>
 -the original Waveshare 1.8 inch amoled board. I hear there are two versions of the hardware. If on the back of yours you see this for the display and touch controller hardware inside then you are good. <BR>
 - <img width="250" alt="Back" src="https://github.com/user-attachments/assets/c71c2a8d-74a2-4fe6-8e0e-394444113755" />
--a microSD card over 4Megs in size <BR>
+
 
 # What software do I need? <BR>
 -the Arduino IDE, I'm using version 2.3.11 <BR>
