@@ -27,6 +27,7 @@ Claude created 100% of the code for this. Did I learn anything about coding? No,
 <img width="350" alt="ESP_Flasher" src="https://github.com/user-attachments/assets/d17ee541-dac5-4064-9dd4-e6978d6021b3" /> <BR>
 -or compile the code yourself in the IDE by using these settings <BR>
 <img width="500" alt="IDE_Settings" src="https://github.com/user-attachments/assets/9aa57acc-1377-4b38-8b0a-9b453f5d0a25" /> <BR>
+-first compile that a long time but worth the wait
 
 
 
