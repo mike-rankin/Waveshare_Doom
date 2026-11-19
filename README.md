@@ -30,7 +30,8 @@ Claude created 100% of the code for this. Did I learn anything about coding? No,
 <img width="500" alt="IDE_Settings" src="https://github.com/user-attachments/assets/9aa57acc-1377-4b38-8b0a-9b453f5d0a25" /> <BR>
 -first compile that a long time but worth the wait
 
-
-
+# What option do I choose? <BR>
+-the f1rst portrait version has a screen up top and buttons below. I found it difficult to play with the small top screen but has no save game option yet  <BR>
+-the second landscape version is a much larger screen with button on top of the play area. This seems a bit better and also allows you to save games <BR>
 
 
