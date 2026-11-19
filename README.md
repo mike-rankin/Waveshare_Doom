@@ -1,7 +1,12 @@
 # Waveshare_Doom
 Doom on the Waveshare ESP32-S3 1.8 inch amoled board
 
-Claude created 100% of the code for this. Did I learn anything about coding? No, and I'm ok with this for this particular project. After listening to the audiobook Doom Guy: Life in First Person narritaed by John Romero it brought back so many great memories. Previous side scrollers before this was all we had but Doom changed everything. 
+Claude created 100% of the code for this. Did I learn anything about coding? No, and I'm ok with this for this particular project. After listening to the audiobook Doom Guy: Life in First Person narritaed by John Romero it brought back so many great memories. Previous side scrollers before this was all we had but Doom changed everything. After the book I grabbed Doom off Steam and played it once more. Lately I've been having a great time using Claude bringing new ideas to life that was never before possible. This project idea for Doom on a tiny device needs a lot of hardware and this Waveshare board can do it all:
+-16Megs of flash <BR>
+-8Megs of PSRAM <BR>
+-a 1.8" amoled, capacitive touch 368 × 448 resolution screen with 16.7M colors <BR>
+-a ES8311 sound codec chip <BR>
+-built in battery and speaker <BR> 
 
 # What hardware do I need? <BR>
 -the original Waveshare 1.8 inch amoled board. I hear there are two versions of the hardware. If on the back of yours you see this for the display and touch controller hardware inside then you are good. <BR>
