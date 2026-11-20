@@ -21,7 +21,7 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the Arduino IDE, I'm using version 2.3.11 <BR>
 -the Boards Manager, esp32 by Espressif, I'm using version 3.3.13 <BR>
 -the library from Library Manager ESP-DOOM <BR>
--I've only had luck compiling and uploading the sketch myself. ESP flashers using compiled, merged .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad do not work for some reason <BR>
+-feel free to compile your own Arduino sketch or upload a pre-compiled .bin file using the Espressif ESP32 Flash Download tool <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size that you can find with a quick search <BR>
 -two versions were created but the landscape version is my favourite and has the ability to save games on the sd card
 
@@ -36,7 +36,7 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the first portrait version has a screen up top and buttons below. I found it difficult to play with the small top screen but has no save game option yet  <BR>
 
 -the second landscape version is a much larger screen with button on top of the play area. This seems a bit better and also allows you to save games <BR>
-# Landscape Version 
+# Landscape or Portrait Versions
 
 <img width="270"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
 <img width="250" alt="Splash_Portrait" src="https://github.com/user-attachments/assets/c45c0ab1-779a-45b1-804a-9d9fbad23793" />
