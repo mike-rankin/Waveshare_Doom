@@ -37,4 +37,6 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the f1rst portrait version has a screen up top and buttons below. I found it difficult to play with the small top screen but has no save game option yet  <BR>
 -the second landscape version is a much larger screen with button on top of the play area. This seems a bit better and also allows you to save games <BR>
 
+<img width="250"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
+
 
