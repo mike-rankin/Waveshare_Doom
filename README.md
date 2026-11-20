@@ -38,6 +38,6 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the second landscape version is a much larger screen with button on top of the play area. This seems a bit better and also allows you to save games <BR>
 # Landscape Version 
 
-<img width="250"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
+<img width="270"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
 <img width="250" alt="Splash_Portrait" src="https://github.com/user-attachments/assets/c45c0ab1-779a-45b1-804a-9d9fbad23793" />
 
