@@ -21,7 +21,7 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the Arduino IDE, I'm using version 2.3.11 <BR>
 -the Boards Manager, esp32 by Espressif, I'm using version 3.3.13 <BR>
 -the library from Library Manager ESP-DOOM <BR>
--I've onlyhad luck compiling it myself with esp flashers using compiled, merged .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad that do not work <BR>
+-I've only had luck compiling and uploading the sketch myself. ESP flashers using compiled, merged .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad do not work <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size that you can find with a quick search <BR>
 -two versions were created but the landscape version is my favourite and has the ability to save games on the sd card
 
