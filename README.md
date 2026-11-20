@@ -21,14 +21,13 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the Arduino IDE, I'm using version 2.3.11 <BR>
 -the Boards Manager, esp32 by Espressif, I'm using version 3.3.13 <BR>
 -the library from Library Manager ESP-DOOM <BR>
--compile it yourself or use the web flasher and my compiled .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad <BR>
+-I've onlyhad luck compiling it myself with esp flashers using compiled, merged .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad that do not work <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size that you can find with a quick search <BR>
 -two versions were created but the landscape version is my favourite and has the ability to save games on the sd card
 
 # What do I need to do? <BR>
 -format your microSD card, copy doom1.wad onto it and insert it into your Waveshare board <BR>
--flash the portrait or landscape version on the bin file using an online flasher. Because it is a merged, partitioned file, set the offset location to 0x00 instead of the default 0x1000 <BR>
-<img width="350" alt="ESP_Flasher" src="https://github.com/user-attachments/assets/d17ee541-dac5-4064-9dd4-e6978d6021b3" /> <BR>
+-compile and load the portrait or landscape version using the IDE <BR>
 -or compile the code yourself in the IDE by using these settings <BR>
 <img width="500" alt="IDE_Settings" src="https://github.com/user-attachments/assets/9aa57acc-1377-4b38-8b0a-9b453f5d0a25" /> <BR>
 -first compile that a long time but worth the wait
