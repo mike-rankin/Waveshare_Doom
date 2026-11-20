@@ -23,7 +23,9 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the library from Library Manager ESP-DOOM <BR>
 -feel free to compile your own Arduino sketch or upload a pre-compiled .bin file using the Espressif ESP32 Flash Download tool <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size that you can find with a quick search <BR>
--two versions were created but the landscape version is my favourite and has the ability to save games on the sd card
+-two versions were created but the landscape version is my favourite and has the ability to save games on the sd card <BR>
+
+<img width="661" height="779" alt="Flash_Download_Tool" src="https://github.com/user-attachments/assets/04059079-593a-430f-b8bf-0512d4f35096" /> <BR>
 
 # What do I need to do? <BR>
 -format your microSD card, copy doom1.wad onto it and insert it into your Waveshare board <BR>
