@@ -39,5 +39,5 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 # Landscape Version 
 
 <img width="250"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
-<img width="250"  alt="Splash_Portrait" src="https://github.com/user-attachments/assets/38bfafad-38d1-4618-a938-91484585dc5d" />
+
 
