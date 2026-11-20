@@ -21,14 +21,15 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the Arduino IDE, I'm using version 2.3.11 <BR>
 -the Boards Manager, esp32 by Espressif, I'm using version 3.3.13 <BR>
 -the library from Library Manager ESP-DOOM <BR>
--compile it yourself or use the web flasher and my compiled .bin files https://espressif.github.io/esptool-js/ or https://espressif.github.io/esp-launchpad <BR>
+-feel free to compile your own Arduino sketch or upload a pre-compiled .bin file using the Espressif ESP32 Flash Download tool <BR>
 -a shareware doom .wad file, I'm using the full shareware DOOM1.WAD (v1.9) that is 4Megs ins size that you can find with a quick search <BR>
--two versions were created but the landscape version is my favourite and has the ability to save games on the sd card
+-two versions were created but the landscape version is my favourite and has the ability to save games on the sd card <BR>
+
+<img width="250" alt="Flash_Download_Tool" src="https://github.com/user-attachments/assets/04059079-593a-430f-b8bf-0512d4f35096" /> <BR>
 
 # What do I need to do? <BR>
 -format your microSD card, copy doom1.wad onto it and insert it into your Waveshare board <BR>
--flash the portrait or landscape version on the bin file using an online flasher. Because it is a merged, partitioned file, set the offset location to 0x00 instead of the default 0x1000 <BR>
-<img width="350" alt="ESP_Flasher" src="https://github.com/user-attachments/assets/d17ee541-dac5-4064-9dd4-e6978d6021b3" /> <BR>
+-compile and load the portrait or landscape version using the IDE <BR>
 -or compile the code yourself in the IDE by using these settings <BR>
 <img width="500" alt="IDE_Settings" src="https://github.com/user-attachments/assets/9aa57acc-1377-4b38-8b0a-9b453f5d0a25" /> <BR>
 -first compile that a long time but worth the wait
@@ -37,7 +38,8 @@ Previous side scrollers before this was all we had but Doom changed everything. 
 -the first portrait version has a screen up top and buttons below. I found it difficult to play with the small top screen but has no save game option yet  <BR>
 
 -the second landscape version is a much larger screen with button on top of the play area. This seems a bit better and also allows you to save games <BR>
-# Landscape Version 
-<img width="250"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
+# Landscape or Portrait Versions
 
+<img width="270"  alt="Splash_Landscape" src="https://github.com/user-attachments/assets/b0b7c3d1-ab97-4cca-ba4e-74e66f8a8fc2" />
+<img width="250" alt="Splash_Portrait" src="https://github.com/user-attachments/assets/c45c0ab1-779a-45b1-804a-9d9fbad23793" />
 
